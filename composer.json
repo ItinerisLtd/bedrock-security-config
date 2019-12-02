@@ -14,7 +14,7 @@
     "authors": [
         {
             "name": "Itineris Limited",
-            "email": "hello@itineris.co.uk",
+            "email": "dev@itineris.co.uk",
             "homepage": "https://itineris.co.uk/",
             "role": "Company"
         },
@@ -26,7 +26,7 @@
         }
     ],
     "require": {
-        "php": "^7.1"
+        "php": "^7.2"
     },
     "require-dev": {
         "roave/security-advisories": "dev-master"
@@ -38,7 +38,7 @@
     },
     "prefer-stable": true,
     "support": {
-        "email": "hello@itineris.co.uk",
+        "email": "dev@itineris.co.uk",
         "issues": "https://github.com/ItinerisLtd/bedrock-security-config/issues",
         "source": "https://github.com/ItinerisLtd/bedrock-security-config"
     }

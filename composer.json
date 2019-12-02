@@ -1,0 +1,45 @@
+{
+    "name": "itinerisltd/bedrock-security-config",
+    "type": "wordpress-muplugin",
+    "description": "Sets default security configurations",
+    "keywords": [
+        "security",
+        "bedrock",
+        "headers",
+        "wordpress",
+        "wp"
+    ],
+    "homepage": "https://itinerisltd.github.io/bedrock-security-config/",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Itineris Limited",
+            "email": "hello@itineris.co.uk",
+            "homepage": "https://itineris.co.uk/",
+            "role": "Company"
+        },
+        {
+            "name": "Lee Hanbury",
+            "email": "lee.hanbury@gmail.com",
+            "homepage": "https://codepunchers.co.uk",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^7.1"
+    },
+    "require-dev": {
+        "roave/security-advisories": "dev-master"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        }
+    },
+    "prefer-stable": true,
+    "support": {
+        "email": "hello@itineris.co.uk",
+        "issues": "https://github.com/ItinerisLtd/bedrock-security-config/issues",
+        "source": "https://github.com/ItinerisLtd/bedrock-security-config"
+    }
+}
